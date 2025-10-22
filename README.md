@@ -1,5 +1,5 @@
 #Git & GitHub Lab
-Lab Objectives
+Lab Objectives By feature-A
     Understand basic Git concepts.
     Create and manage local and remote repositories.
     Use essential Git commands.
